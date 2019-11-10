@@ -22,7 +22,7 @@ Em seu terminal, digite `npm install`.
 Creio que já tenha pego o **token** de seu bot. Não pegou ? Não tem problema... [clique aqui](https://discordapp.com/developers/applications/) pegue seu token e volte, eu estarei te esperando, rsrs.  
 
 Agora só ligar seu bot! em sua linha de comando digite `node .`
-**
+
 #### Pronto seu bot ficará **Online**!
 
 # Não conseguiu obter sucesso ?
