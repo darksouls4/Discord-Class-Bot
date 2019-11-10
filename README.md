@@ -1,3 +1,13 @@
+[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/darksouls4/Discord-Class-Bot/blob/master/LICENSE)
+![node](https://img.shields.io/node/v/discord.js?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/darksouls4/Discord-Class-Bot?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/darksouls4/Discord-Class-Bot?style=for-the-badge)
+[![MIT](https://img.shields.io/badge/not%20made%20with-python-blue.svg?style=for-the-badge)](#ye)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+
 # Bot em classes
 # Como Instalar:
 #### Nota:
