@@ -26,5 +26,5 @@ Agora só ligar seu bot! em sua linha de comando digite `node .`
 #### Pronto seu bot ficará **Online**!
 
 # Não conseguiu obter sucesso ?
-#### Me chame no discord. Lá estarei te ajudando e tirando suas dúvidas 😃 - AvengerSuicide#0352.
+#### Me chame no discord. Lá estarei te ajudando e tirando suas dúvidas 😃 - ™Ꭰᥲʀκ͢❥Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͟͞ᴛ™#2796.
 #### Antes de me mandar uma DM, por favor, tente refazer os passos.
