@@ -25,4 +25,4 @@ class Tag extends Command {
 
     }
 }
-module.exports = TagTagCommand.ks
+module.exports = TagCommand.js
