@@ -9,7 +9,7 @@ class Command {
         this.client.commands.push(this);
     }
     async start(message) {
-        const prefix = 's/';
+        const prefix = 'a.';
 
         const rawArgs = message.content.split(" ");
         let names = [this.name];
